@@ -1,0 +1,13 @@
+.options {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.options button {
+  cursor: pointer;
+}
+
+button.hide {
+  display: none;
+}
